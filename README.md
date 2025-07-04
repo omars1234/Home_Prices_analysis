@@ -1,7 +1,7 @@
-# Home_Prices_analysis
+# *Home_Prices_analysis*
 
 
-## How to run ?
+## *How to run ?*
 
 *Clone the repository:*
 
