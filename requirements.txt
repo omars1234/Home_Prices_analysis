@@ -24,3 +24,5 @@ kmodes
 scikit_posthocs
 ipympl
 statannotations
+lightgbm
+shapash
